@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ikigai-d17ca": {
+      "hosting": {
+        "Ikigai": [
+          "ikigai-d17ca"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ikigai-d17ca"
+  }
+}
